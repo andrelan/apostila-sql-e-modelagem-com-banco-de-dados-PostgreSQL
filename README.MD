@@ -1,8 +1,6 @@
-# Apostila SQL e modelagem com bando de dados
+# Apostila SQL e modelagem com bando de dados com PostgreSQL
 
-Essa apostila mostra o que é um banco de dados relacional e como pensar a modelagem de uma base de dados.
-
-Para estudar sobre SQL e MySQL, acesse: https://www.alura.com.br/curso-online-mysql-manipule-dados-com-sql
+Essa apostila mostra o que é um banco de dados relacional e como pensar a modelagem de uma base de dados utilizando PostgreSQL. Adaptação da Apostila SQL e modelagem com bando de dados da https://www.alura.com.br
 
 ## Licença
 
